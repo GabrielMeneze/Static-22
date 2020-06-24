@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\Diagrama-12\bin\Debug\netcoreapp3.1\Diagrama-12.exe
+C:\Users\gabriel\Documents\GitHub\Diagrama-12\bin\Debug\netcoreapp3.1\Diagrama-12.deps.json
+C:\Users\gabriel\Documents\GitHub\Diagrama-12\bin\Debug\netcoreapp3.1\Diagrama-12.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\Diagrama-12\bin\Debug\netcoreapp3.1\Diagrama-12.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\Diagrama-12\bin\Debug\netcoreapp3.1\Diagrama-12.dll
+C:\Users\gabriel\Documents\GitHub\Diagrama-12\bin\Debug\netcoreapp3.1\Diagrama-12.pdb
+C:\Users\gabriel\Documents\GitHub\Diagrama-12\obj\Debug\netcoreapp3.1\Diagrama-12.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\Diagrama-12\obj\Debug\netcoreapp3.1\Diagrama-12.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\Diagrama-12\obj\Debug\netcoreapp3.1\Diagrama-12.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\Diagrama-12\obj\Debug\netcoreapp3.1\Diagrama-12.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\Diagrama-12\obj\Debug\netcoreapp3.1\Diagrama-12.dll
+C:\Users\gabriel\Documents\GitHub\Diagrama-12\obj\Debug\netcoreapp3.1\Diagrama-12.pdb
+C:\Users\gabriel\Documents\GitHub\Diagrama-12\obj\Debug\netcoreapp3.1\Diagrama-12.genruntimeconfig.cache
